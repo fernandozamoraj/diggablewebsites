@@ -1,0 +1,75 @@
+
+ body{
+    /*background-color: #ccddcf;*/
+    background-color: #111111;
+    color: #777;
+    font-family: 'Nova Square', cursive;
+     background-image: url('../img/texture3.png');
+     background-repeat: repeat-x;
+     background-attachment:fixed;
+}
+#main-banner{
+    background-image: url('../img/diggable_geek.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;;
+
+}
+
+#main-menu{
+    min-height: 100px;;
+}
+
+a.underline{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+
+a.menu-item:hover
+{
+    background-color:#aaaaaa;
+    color:#557799;
+}
+
+a.menu-item.selected
+{
+    background-color:#557799;
+    color: #aaaaaa;
+}
+
+.contrast-color{
+    color: #557799;
+}
+
+.contrast-background{
+    background-color: #557799;
+}
+
+.bright-color{
+    color: #aaaaaa;
+}
+
+#top-logo{
+    margin-top: 0px;;
+    margin-left: 0px;;
+}
+
+.findout-more-link{
+    color: #fff;
+    background-color: #557799;
+    padding-left: 1em;;
+    padding-right: 3em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+#features{
+    background-color: #212121;
+}
+
+p{
+    color: #333333;
+}
