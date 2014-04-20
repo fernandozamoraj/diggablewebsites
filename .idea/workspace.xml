@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/diggablewebsites.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/site.css" afterPath="$PROJECT_DIR$/css/site.css" />
     </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +31,7 @@
       <file leaf-file-name="site.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/site.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="32" selection-start="215" selection-end="215" vertical-scroll-proportion="0.1680791">
+            <state line="11" column="48" selection-start="315" selection-end="315" vertical-scroll-proportion="0.2641243">
               <folding />
             </state>
           </provider>
@@ -295,7 +290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/site.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="215" selection-end="215" vertical-scroll-proportion="0.1680791">
+        <state line="11" column="48" selection-start="315" selection-end="315" vertical-scroll-proportion="0.2641243">
           <folding />
         </state>
       </provider>
