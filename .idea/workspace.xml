@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="" />
+    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398054841027" ignored="false" />
-    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398063419806" ignored="false" />
+    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398065071668" ignored="false" />
     <file path="/site.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057020741" ignored="false" />
     <file path="/red_black_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057519572" ignored="false" />
     <file path="/blue_gray_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398061590363" ignored="false" />
@@ -40,7 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="658" selection-end="788" vertical-scroll-proportion="0.33034378">
+            <state line="334" column="7" selection-start="19276" selection-end="19276" vertical-scroll-proportion="0.94917786">
               <folding />
             </state>
           </provider>
@@ -365,7 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="658" selection-end="788" vertical-scroll-proportion="0.33034378">
+        <state line="334" column="7" selection-start="19276" selection-end="19276" vertical-scroll-proportion="0.94917786">
           <folding />
         </state>
       </provider>
