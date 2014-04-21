@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="" />
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398054841027" ignored="false" />
@@ -42,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="263" column="129" selection-start="16055" selection-end="16055" vertical-scroll-proportion="0.8983558">
+            <state line="13" column="0" selection-start="658" selection-end="788" vertical-scroll-proportion="0.33034378">
               <folding />
             </state>
           </provider>
@@ -367,7 +365,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="263" column="129" selection-start="16055" selection-end="16055" vertical-scroll-proportion="0.8983558">
+        <state line="13" column="0" selection-start="658" selection-end="788" vertical-scroll-proportion="0.33034378">
           <folding />
         </state>
       </provider>
