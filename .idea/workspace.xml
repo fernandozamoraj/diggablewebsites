@@ -7,7 +7,7 @@
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398054841027" ignored="false" />
-    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398063092253" ignored="false" />
+    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398063419806" ignored="false" />
     <file path="/site.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057020741" ignored="false" />
     <file path="/red_black_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057519572" ignored="false" />
     <file path="/blue_gray_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398061590363" ignored="false" />
@@ -42,7 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="276" column="27" selection-start="16352" selection-end="16352" vertical-scroll-proportion="0.39013454">
+            <state line="263" column="129" selection-start="16055" selection-end="16055" vertical-scroll-proportion="0.8983558">
               <folding />
             </state>
           </provider>
@@ -367,7 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="276" column="27" selection-start="16352" selection-end="16352" vertical-scroll-proportion="0.39013454">
+        <state line="263" column="129" selection-start="16055" selection-end="16055" vertical-scroll-proportion="0.8983558">
           <folding />
         </state>
       </provider>
