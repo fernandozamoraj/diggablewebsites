@@ -27,8 +27,13 @@
         .icon32{
             max-width: 5em;;
             padding-top: 10px;;
+            margin-left: 10px;;
         }
 
+        .row{
+            margin: 0;
+            overflow: hidden;
+        }
     </style>
 
 
@@ -37,23 +42,23 @@
 	<div id="site-container" class="grid">
 		<div id="site-content" role="main">
 
-            <div class="row" id="main-menu">
-                <div class="c3"></div>
-                <div class="c9">
-                    <a href="#home" class="bright-color menu-item" id='home-menu'>HOME  </a>&#8226;
-                    <a href="#about" class="bright-color menu-item" id='about-menu'>ABOUT  </a>&#8226;
-                    <a href="#my-services" class="bright-color menu-item" id='my-services-menu'>MY SERVICES  </a>&#8226;
-                    <a href="#contact-me" class="bright-color menu-item" id='contact-me-menu'>CONTACT ME  </a>&#8226;
-                    <a href="#gallery" class="bright-color menu-item" id='gallery-menu'>GALLERY  </a>
-                </div>
-            </div>
+
+           <div id="main-banner">
+               <row>
+                   <div class="row" id="main-menu">
+                       <div class="c5">.</div>
+                       <div class="c7" >
+                           <a href="#home" class="bright-color menu-item" id='home-menu'>HOME  </a>&#8226;
+                           <a href="#about" class="bright-color menu-item" id='about-menu'>ABOUT  </a>&#8226;
+                           <a href="#my-services" class="bright-color menu-item" id='my-services-menu'>MY SERVICES  </a>&#8226;
+                           <a href="#contact-me" class="bright-color menu-item" id='contact-me-menu'>CONTACT ME  </a>&#8226;
+                           <a href="#gallery" class="bright-color menu-item" id='gallery-menu'>GALLERY  </a>
+                       </div>
+                   </div>
+               </row>
+           </div>
 
             <div id="home">
-                <!-- headphone banner image is set as background via css-->
-                <div class="row" id="main-banner">
-                </div>
-
-
                 <div class="row">
 
                     <div class="row" id="features">
@@ -85,7 +90,6 @@
                         <a class="c1 icon32" href="https://plus.google.com/116326632110056707371/posts" target="_blank"><img src="./img/google-plus.png" alt="google plus link"></a>
                         <a class="c1 icon32" href="https://github.com/fernandozamoraj" target="_blank"><img src="./img/github.png" alt="githhub link"></a>
                         <a class="c1 icon32" href="http://fernandozamorajimenez.blogspot.com/" target="_blank"><img src="./img/pencil2.png" alt="blocg link"></a>
-                        <h3 class="c8">FOLLOW ME ON SOCIAL MEDIA</h3>
                     </div>
                 </div>
 
@@ -112,10 +116,10 @@
                 </div>
                 -->
                 <div id="simple-web-site" class="row details">
-                    <div class="row panel-color bright-color">
+                    <div class="row panel-color bright-color inner">
                         <img src="./img/checkmark.png" class="c1 icon32"><h3 class="c10">THE SIMPLE WEBSITE CONCEPT</h3>
                     </div>
-                    <div class="row">
+                    <div class="row inner">
                         <div class="c10">
                             <p>
                                 Creating a website is a challenge.  Even with all the advances in do-it-your-self tools, website creation can still be a challenge.
@@ -302,16 +306,16 @@
                     <div class="row">
                         <div class="c3">
                             <h3>POC</h3>
-                            <p class="bright-color">Fernando Zamora<br/>(aka Diggable Geek)</p>
+                            <p class="dark-color-color">Fernando Zamora<br/>(aka Diggable Geek)</p>
                         </div>
                         <div class="c3">
                             <h3>Phone</h3>
-                            <p class="bright-color">1-254-338-3885</p>
-                            <p class="bright-color">After 5 PM and Saturdays and Sundays</p>
+                            <p class="dark-color">1-254-338-3885</p>
+                            <p class="dark-color">After 5 PM and Saturdays and Sundays</p>
                         </div>
                         <div class="c3">
                             <h3>E-Mail</h3>
-                            <a href="mailto:fernando.zamora.jimenez@gmail.com" class="bright-color">fernando.zamora.jimenez@gmail.com</a>
+                            <a href="mailto:fernando.zamora.jimenez@gmail.com" class="dark-color">fernando.zamora.jimenez@gmail.com</a>
                         </div>
                     </div>
                 </div><!--end of contact-me-->
