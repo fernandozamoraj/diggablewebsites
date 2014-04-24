@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/blue_gray_theme.css" afterPath="$PROJECT_DIR$/css/blue_gray_theme.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +70,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="4841" selection-end="4841" vertical-scroll-proportion="0.51241136">
+            <state line="54" column="0" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.3320965">
               <folding />
             </state>
           </provider>
@@ -468,7 +466,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="4841" selection-end="4841" vertical-scroll-proportion="0.51241136">
+        <state line="54" column="0" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.3320965">
           <folding />
         </state>
       </provider>
