@@ -1,0 +1,199 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Diggable Websites</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="./css/gridiculous.css" type='text/css'>
+    <link rel='stylesheet' href='./css/blue_gray_theme.css' type='text/css'>
+    <link rel='stylesheet' href='./css/animate.css' type='text/css'>
+    <script src="./scripts/jquery-1.11.0.min.js"></script>
+
+
+    <style>
+        .icon32{
+            max-width: 5em;;
+            padding-top: 10px;;
+            margin-left: 10px;;
+        }
+
+        .row{
+            margin: 0;
+            overflow: hidden;
+        }
+
+        div.medium-menu-tile{
+            background-image: url('./img/medium-orange-tile.png');
+
+            padding: 20px;
+            margin: 0;
+            overflow: hidden;
+            font-size: 1.5em;
+
+            cursor: pointer;
+
+        }
+
+        div.medium-menu-tile p{
+            color: #fff;
+            font-weight: bold;
+        }
+
+        #services-menu{
+            background-image: url('./img/medium-orange-tile.png');
+         }
+
+        #portfolio-menu{
+            background-image: url('./img/medium-blue-tile.png');
+            color: #efefef;
+
+        }
+
+        #social-media-menu{
+            background-image: url('./img/medium-green-tile.png');
+        }
+
+        #blog-menu{
+            background-image: url('./img/medium-red-tile.png');
+
+        }
+
+        #about-menu{
+            background-image: url('./img/medium-orange-tile.png');
+        }
+    </style>
+
+
+</head>
+<body>
+	<div id="site-container" class="grid">
+		<div id="site-content" role="main">
+            <div class="row">
+                <div class="c2 medium-menu-tile" id="services-menu">
+
+                    <p>
+                        <br/><span id="services-menu-text">SERVICES</span>
+                    </p>
+                </div>
+                <div class="c2 medium-menu-tile" id="portfolio-menu">
+                    <p>
+                        <br/>PORTFOLIO
+                    </p>
+                </div>
+                <div class="c2 medium-menu-tile" id="social-media-menu">
+                    <p>
+                        SOCIAL MEDIA
+                    </p>
+                </div>
+                <div class="c2 medium-menu-tile" id="blog-menu">
+                    <p>
+                        <br/>BLOG
+                    </p>
+                </div>
+                <div class="c2 medium-menu-tile" id="about-menu">
+                    <p>
+                        <br/><span id="about-menu-text">ABOUT</span>
+                    </p>
+                </div>
+            </div>
+            <div id="about-details" class="row details">
+                <div class="row">
+                    <div class="c10">
+                        <p>
+                            Graduated from Tarleton State University with a B.S. in Computer Science in 2001 after 8 years of of honorable service with the U.S. army. After that
+                            I graduated from Texas A&M University of Central Texas with a Masters in Information Systems.
+                        </p>
+                        <p>
+                            I've been a professional computer programmer for approximately fourteen years.  Designing websites allows me to do the fun part of web development.
+                        </p>
+                        <p>
+                            Currently I have a day time job which occupies my regular programming duties.  I can only do this because I approach with the simple design process in mind.
+                            Many business advertise the no-job-is-to-big.  My approach is different and that is if that if your website requires more than a weekend worth of work, than
+                            the project is too large for me.
+                        </p>
+                    </div>
+                </div>
+                <div class="c4">.</div>
+                <!--div class="c4 end panel-color">
+                    <h3>"VERY PROFESSIONAL"</h3>
+                    <p>
+                        Wow! What amazing professionalism the DJ displayed for the Mixed Martial Arts event I had staged for my fighters at the Killeen Civic and Conference Center.  The music was well suited for all the audience members.  I can't say enough about Dee Jay Handyman.  Great music and great professionalism at the same time.
+                    </p>
+                </div-->
+            </div><!--end of about-->
+
+            <div id="services-details" class="row details">
+                <div class="row">
+                    <div class="c10">
+                        <p>
+                            Providing website design needs for the underdog. My designs are simple and intended to provide a solution for small business (aka the mom and pop shop).
+                        </p>
+                        <p>
+                            All websites are created to be light weight and responsive to allow easy viewing in any computer or mobile device.
+                        </p>
+                    </div>
+
+                </div>
+            </div><!--end of my services-->
+
+        </div><!--end of site-content-->
+    </div><!--end of site-container-->
+    <script type="text/javascript">
+        var currentDetailsDiv;
+
+        (function (){
+            $('#services-details').hide();
+            $('#about-details').hide();
+        } )();
+
+        $('#about-menu').hover( function(){
+            showDetailsScreen('#about-details', currentDetailsDiv);
+        });
+
+        $('#services-menu').hover( function(){
+            showDetailsScreen('#services-details', currentDetailsDiv);
+        });
+
+
+        $('#services-menu').hover(function(){
+            $('#services-menu-text').removeClass('animated bounceInDown').
+                    addClass('animated bounceInDown').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                    function(){
+                        $('#services-menu-text').removeClass('animated bounceInDown');
+                    });
+        });
+
+        $('#about-menu').hover(function(){
+            $('#about-menu-text').removeClass('animated bounceInDown').
+                    addClass('animated bounceInDown').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                    function(){
+                        $('#about-menu-text').removeClass('animated bounceInDown');
+                    });
+        });
+
+        function showDetailsScreen(divToShow, prevDivShowing){
+            if(prevDivShowing)
+                $(prevDivShowing).hide();
+
+            $(divToShow).show();
+            $(divToShow).removeClass('animated bounceInDown').
+                    addClass('animated bounceInDown').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                    function(){
+                        $(this).removeClass('animated bounceInDown');
+                    });
+
+            currentDetailsDiv = divToShow;
+        }
+    </script>
+</body>
+</html>
