@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398473480734" ignored="false" />
-    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398475105119" ignored="false" />
+    <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398477332909" ignored="false" />
+    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398480558030" ignored="false" />
     <file path="/site.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057020741" ignored="false" />
     <file path="/red_black_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057519572" ignored="false" />
     <file path="/blue_gray_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398321059091" ignored="false" />
@@ -40,7 +39,7 @@
     <file path="$PROJECT_DIR$/../merants/itsnotbroken/src/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398145413854" ignored="false" />
     <file path="/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144793826" ignored="false" />
     <file path="$PROJECT_DIR$/../merants/itsnotbroken/src/node_modules/mongojs/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144848946" ignored="false" />
-    <file path="$PROJECT_DIR$/../sillystring3/sillystring/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398391069234" ignored="false" />
+    <file path="$PROJECT_DIR$/../sillystring3/sillystring/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398478628696" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="149" selection-start="4226" selection-end="4226" vertical-scroll-proportion="0.41463414">
+            <state line="86" column="55" selection-start="4076" selection-end="4076" vertical-scroll-proportion="0.35789475">
               <folding />
             </state>
           </provider>
@@ -258,7 +257,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sillystring3/sillystring" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -475,7 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="149" selection-start="4226" selection-end="4226" vertical-scroll-proportion="0.41463414">
+        <state line="86" column="55" selection-start="4076" selection-end="4076" vertical-scroll-proportion="0.35789475">
           <folding />
         </state>
       </provider>
