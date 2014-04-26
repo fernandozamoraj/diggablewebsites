@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="" />
+    <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/medium-blue-tile.png" afterPath="$PROJECT_DIR$/img/medium-blue-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/medium-green-tile.png" afterPath="$PROJECT_DIR$/img/medium-green-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/medium-orange-tile.png" afterPath="$PROJECT_DIR$/img/medium-orange-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/medium-red-tile.png" afterPath="$PROJECT_DIR$/img/medium-red-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diggablewebsites.html" afterPath="$PROJECT_DIR$/diggablewebsites.html" />
+    </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398477332909" ignored="false" />
@@ -38,7 +44,7 @@
     <file path="/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144793826" ignored="false" />
     <file path="$PROJECT_DIR$/../merants/itsnotbroken/src/node_modules/mongojs/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144848946" ignored="false" />
     <file path="$PROJECT_DIR$/../sillystring3/sillystring/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398478628696" ignored="false" />
-    <file path="/diggablewebsites.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398494717330" ignored="false" />
+    <file path="/diggablewebsites.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398533427936" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +88,7 @@
       <file leaf-file-name="diggablewebsites.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/diggablewebsites.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="159" column="30" selection-start="6133" selection-end="6133" vertical-scroll-proportion="0.42708334">
+            <state line="192" column="30" selection-start="9792" selection-end="9792" vertical-scroll-proportion="-1.0902778">
               <folding />
             </state>
           </provider>
@@ -331,7 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1059" y="-8" width="926" height="528" extended-state="7" />
+    <frame x="1059" y="-8" width="926" height="528" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -527,7 +533,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/diggablewebsites.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="30" selection-start="6133" selection-end="6133" vertical-scroll-proportion="0.42708334">
+        <state line="192" column="30" selection-start="9792" selection-end="9792" vertical-scroll-proportion="-1.0902778">
           <folding />
         </state>
       </provider>
