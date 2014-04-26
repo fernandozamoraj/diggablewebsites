@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5a36b874-64d9-48cf-a123-14ff125a1917" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="diggablewebsites.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398315943038" ignored="false" />
-    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398320849824" ignored="false" />
+    <file path="/Dummy.txt" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398473480734" ignored="false" />
+    <file path="/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398475105119" ignored="false" />
     <file path="/site.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057020741" ignored="false" />
     <file path="/red_black_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398057519572" ignored="false" />
     <file path="/blue_gray_theme.css" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398321059091" ignored="false" />
@@ -39,6 +40,7 @@
     <file path="$PROJECT_DIR$/../merants/itsnotbroken/src/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398145413854" ignored="false" />
     <file path="/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144793826" ignored="false" />
     <file path="$PROJECT_DIR$/../merants/itsnotbroken/src/node_modules/mongojs/package.json" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398144848946" ignored="false" />
+    <file path="$PROJECT_DIR$/../sillystring3/sillystring/index.html" changelist="5a36b874-64d9-48cf-a123-14ff125a1917" time="1398391069234" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.3320965">
+            <state line="87" column="149" selection-start="4226" selection-end="4226" vertical-scroll-proportion="0.41463414">
               <folding />
             </state>
           </provider>
@@ -145,10 +147,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1592" />
+    <option name="x" value="1059" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="width" value="926" />
+    <option name="height" value="528" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -176,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,7 +253,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,13 +288,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="1059" y="-8" width="926" height="528" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14296351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16798197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -368,6 +370,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/gridiculous.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/site.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="100" column="11" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0">
@@ -466,7 +475,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.3320965">
+        <state line="87" column="149" selection-start="4226" selection-end="4226" vertical-scroll-proportion="0.41463414">
           <folding />
         </state>
       </provider>
